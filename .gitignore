@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+*.sqlite3
+*.db
+*.log
+*.DS_Store
+.vscode/
+.idea/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.history/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Audio
+*.mp3
+
+# Gradio SSL/Temp
+.gradio/
+certificate.pem
+key.pem
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/Editor files
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
